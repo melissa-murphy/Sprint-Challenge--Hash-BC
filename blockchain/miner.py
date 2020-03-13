@@ -1,6 +1,6 @@
 import hashlib
-import requests
 import sys
+import requests
 from uuid import uuid4
 from timeit import default_timer as timer
 from random import randint
